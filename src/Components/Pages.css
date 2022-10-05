@@ -1,0 +1,85 @@
+.order-list li{
+    list-style: none;
+    padding: 5px;
+    }
+   
+    .label-list{
+      display: flex;
+      justify-content: left;
+    }
+    .input-list{
+      display: flex;
+      justify-content: left;
+      
+    }
+    input{
+      width: 300px;
+      padding: 10px;
+      border: none;
+      border: 1px solid gainsboro;
+      border-radius: 5px;
+    }
+    button{
+      width: 315px;
+      margin: 10px 0px;
+      background-color: blueviolet;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      border: none;
+      border-radius: 5px;
+    }
+    p{
+        color: gray;
+    }
+    .secondPage-div{
+        margin-left: 50px;
+    }
+    .second-input{
+      display: flex;
+      justify-content: space-around;
+    }
+    .example-para{
+      border: 1px solid gray ;
+      color: gray;
+      background-color: gainsboro;
+      border-radius: 5px;
+    }
+    .input-field{
+      padding: 10px;
+      width: 200px;
+    }
+    .second-div{
+      display: flex;
+      justify-content: left;
+    }
+    .first-input{
+      width: 380px;
+      
+    }
+    .thirdpage-div{
+      display: flex;
+      justify-content: space-around;
+
+    }
+    .first-card{
+      border: 1px solid blueviolet;
+      border-radius: 5px;
+      margin: 5px 10px;
+      width: 250px;
+      text-align: left;
+      padding: 5px 20px;
+    }
+    .second-card{
+      border: 1px solid gainsboro;
+      border-radius: 5px;
+      margin: 5px 10px;
+      width: 250px;
+      text-align: left;
+      padding: 5px 20px;
+
+    }
+    .card{
+      max-width: 690px;
+      
+    }
